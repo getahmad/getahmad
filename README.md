@@ -1,6 +1,6 @@
 ### Hi, I'm Ahmad Danang 👋
 
-<img src="/images/github.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica"><img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+<img src="/images/github.png" alt="banner-ahmad-danang">
 <!--
 **getahmad/getahmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
