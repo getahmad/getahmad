@@ -2,7 +2,7 @@
 
 <img src="/images/github.png" alt="banner-ahmad-danang"> <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=getahmad&show_icons=true) <br />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=getahmad&show_icons=true) <br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=getahmad&layout=compact)
 
