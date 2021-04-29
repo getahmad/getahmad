@@ -1,6 +1,13 @@
 ### Hi, I'm Ahmad Danang 👋
 
-<img src="/images/github.png" alt="banner-ahmad-danang">
+<img src="/images/github.png" alt="banner-ahmad-danang"> <br />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=getahmad&show_icons=true) <br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=getahmad&layout=compact)
+
+
+
 <!--
 **getahmad/getahmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
