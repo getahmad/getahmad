@@ -1,10 +1,10 @@
 ### Hi, I'm Ahmad Danang 👋
 
-<img src="/images/github.png" alt="banner-ahmad-danang"> <br />
+<!-- <img src="/images/github.png" alt="banner-ahmad-danang"> <br /> -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=getahmad&show_icons=true) 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=getahmad&layout=compact)
+<!-- 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=getahmad&layout=compact) -->
 
 
 
